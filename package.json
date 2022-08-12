@@ -1,0 +1,26 @@
+{
+  "name": "chrome-devtools",
+  "version": "1.0.0",
+  "description": "chrome-devTools devlop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weichenguang/chrome-devTools.git"
+  },
+  "author": "wcg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weichenguang/chrome-devTools/issues"
+  },
+  "homepage": "https://github.com/weichenguang/chrome-devTools#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "eslint": "^8.21.0",
+    "eslint-plugin-react": "^7.30.1",
+    "prettier": "^2.7.1"
+  }
+}
